@@ -33,19 +33,19 @@ Some of the reasons accessibility is important is
 
 ## CSS refactors
 
-*Added comments to label each section and selectors.
-*Consolidating repeating sections that gave the same styling to multiple tags.
-*Removed unnecessary class selectors.
+* Added comments to label each section and selectors.
+* Consolidating repeating sections that gave the same styling to multiple tags.
+* Removed unnecessary class selectors.
 
-# link to live URL
+## link to live URL
 
 https://cloud126.github.io/homework1/
 
-# Link to GitHub URL
+## Link to GitHub URL
 
 https://github.com/Cloud126/test
 
-# License
+## License
 
 MIT License
 
