@@ -17,19 +17,19 @@ Some of the reasons accessibility is important is
 
 ## HTML refactors
 
-* Changed <div class=”content”> to <header>.
-* Changed <div> in <header> to <nav>.
-* Changed <div class="hero"></div> to <figure> and removed class.
-* Changed <div class=”content”> to <main>.
-* Changed <div> in <main> to <section>.
-* Changed class in <sections> within <main> to “content”.
-* Added missing <id> to <img> on line 34.
-* Added alt to images in <main>.
-* Changed <div class=”benefits”> to <aside>.
-* Changed <div> within <aside> to <section>.
-* Changed <section> class to benefit on all.
-* Added alt to images in <aside>.
-* Changed <div class=”footer”> to <footer>.
+* Changed `<div class=”content”>` to `<header>`.
+* Changed `<div>` in `<header>` to `<nav>`.
+* Changed `<div class="hero"></div>` to `<figure>` and removed class.
+* Changed `<div class=”content”>` to `<main>`.
+* Changed `<div>` in `<main>` to ``<section>`.
+* Changed class in `<sections>` within `<main>` to “content”.
+* Added missing `<id>` to `<img>` on line 34.
+* Added alt to images in `<main>`.
+* Changed `<div class=”benefits”>` to `<aside>`.
+* Changed `<div>` within `<aside>` to `<section>`.
+* Changed `<section>` class to benefit on all.
+* Added alt to images in `<aside>`.
+* Changed `<div class=”footer”>` to `<footer>`.
 
 ## CSS refactors
 
@@ -37,7 +37,7 @@ Some of the reasons accessibility is important is
 * Consolidating repeating sections that gave the same styling to multiple tags.
 * Removed unnecessary class selectors.
 
-## link to live URL
+## Link to Live URL
 
 https://cloud126.github.io/homework1/
 
