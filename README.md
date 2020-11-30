@@ -45,6 +45,12 @@ https://cloud126.github.io/homework1/
 
 https://github.com/Cloud126/test
 
+## Screenshot
+
+![Alt text](images/Screenshot-1 "Screenshot-1")
+
+![Alt text](images/Screenshot-2 "Screenshot-1")
+
 ## License
 
 MIT License

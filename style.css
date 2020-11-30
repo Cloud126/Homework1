@@ -127,7 +127,7 @@ footer {
     text-align: center;
 }
 /*footer "Made with ❤️️ by Horiseon<" text*/
-#h2 {
+footer>h2 {
     font-size: 20px;
     margin-bottom: 0px;
 }
