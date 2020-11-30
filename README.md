@@ -43,7 +43,7 @@ https://cloud126.github.io/homework1/
 
 ## Link to GitHub URL
 
-https://github.com/Cloud126/test
+https://github.com/Cloud126/homework1/
 
 ## Screenshot
 
