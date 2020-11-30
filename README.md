@@ -47,9 +47,9 @@ https://github.com/Cloud126/test
 
 ## Screenshot
 
-![Alt text](images/Screenshot-1 "Screenshot-1")
+![Meeting table](images/Screenshot-1.PNG "Screenshot-1")
 
-![Alt text](images/Screenshot-2 "Screenshot-1")
+![Content](images/Screenshot-2.PNG "Screenshot-1")
 
 ## License
 
